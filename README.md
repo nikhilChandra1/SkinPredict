@@ -1,2 +1,0 @@
-# SkinPredict
-skin
