@@ -1,0 +1,6 @@
+framework module Pods_medicalAppFinal {
+  umbrella header "Pods-medicalAppFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
